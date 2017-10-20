@@ -30,7 +30,7 @@ echo "
 " >> paup_to_nexus_list.txt
 
 #/Applications/paup4a157_osx paup_to_nexus_list.txt > paup.out
-/home/gmount/paup4a156_ubuntu64 paup_to_nexus_list.txt > paup.out
+/Applications/PAUP_dev_icc.app paup_to_nexus_list.txt > paup.out
 
 mkdir trees
 mkdir startingtrees

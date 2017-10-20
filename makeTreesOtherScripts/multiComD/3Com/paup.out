@@ -1,0 +1,4339 @@
+
+P A U P *
+Version 4.0a (build 157) for Macintosh OS X (built on Aug 10 2017 at 12:24:32)
+Tue Oct 10 22:17:58 2017
+
+Running on Intel(R) 64 architecture
+SSE vectorization enabled
+Multithreading enabled for likelihood using Pthreads
+Compiled using Intel compiler (icc) 11.1.0 (build 20091012)
+
+        -----------------------------NOTICE-----------------------------
+          This is an alpha-test version that is still changing rapidly.
+          It will expire on 1 Jan 2018.
+
+          Please report bugs to david.swofford@duke.edu
+        ----------------------------------------------------------------
+
+Processing of file "~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/paup_to_nexus_list.txt"
+begins...
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_clo
+ud.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_clo
+ud.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_sta
+rting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_sta
+rting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_sta
+rting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_sta
+rting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_sta
+rting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_10_sta
+rting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_1_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_2_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_3_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_4_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_5_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_6_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_7_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_8_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.09start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.09start_9_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_clo
+ud.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_clo
+ud.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_sta
+rting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_sta
+rting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_sta
+rting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_sta
+rting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_sta
+rting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_10_sta
+rting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_1_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_2_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_3_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.13 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_4_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_5_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_6_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_7_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_8_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.17 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.48v0.22start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.48v0.22start_9_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_clo
+ud.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_clo
+ud.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_sta
+rting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_sta
+rting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_sta
+rting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_sta
+rting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_sta
+rting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_10_sta
+rting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_1_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_2_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_3_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_4_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_5_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_6_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_7_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_8_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.09start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.09start_9_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_clo
+ud.tree" begins...
+
+3000 trees read from TREES block; time used = 0.13 sec (CPU time = 0.12 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_clo
+ud.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_sta
+rting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_sta
+rting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_sta
+rting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_sta
+rting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_sta
+rting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_10_sta
+rting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_1_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_2_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_3_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_4_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_5_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_6_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_7_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_8_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.12 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.22start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.22start_9_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_clo
+ud.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_clo
+ud.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_sta
+rting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_sta
+rting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_sta
+rting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_sta
+rting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_sta
+rting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_10_sta
+rting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_1_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_2_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_3_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_4_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.13 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_5_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_6_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.18 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_7_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_8_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_0.74v0.48start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_0.74v0.48start_9_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.18 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_10_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_1_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.12 sec (CPU time = 0.12 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_2_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_3_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_4_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_5_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_6_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_7_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.13 sec (CPU time = 0.12 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_8_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.09start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.09start_9_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.13 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_10_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_1_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_2_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.01 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_3_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.18 sec (CPU time = 0.17 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_4_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_5_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_6_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_7_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_8_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.22start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.22start_9_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_10_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.19 sec (CPU time = 0.17 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_1_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_2_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_3_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_4_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_5_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_6_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.13 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_7_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_8_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.48start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.48start_9_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_clou
+d.tree" begins...
+
+3000 trees read from TREES block; time used = 0.16 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_10_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_clou
+d.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_star
+ting_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_10_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_star
+ting_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_star
+ting_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_10_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_star
+ting_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_star
+ting_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_10_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_10_star
+ting_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_1_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_1_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_1_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_1_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_1_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_2_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_2_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_2_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_2_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_2_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.17 sec (CPU time = 0.17 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_3_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_3_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.01 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_3_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_3_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_3_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_4_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_4_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_4_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_4_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_4_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.16 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_5_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_5_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_5_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_5_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_5_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.14 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_6_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_6_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_6_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_6_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_6_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.15 sec (CPU time = 0.15 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_7_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_7_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_7_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_7_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_7_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.18 sec (CPU time = 0.17 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_8_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_8_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_8_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_8_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_8_start
+ing_tree_3.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_cloud
+.tree" begins...
+
+3000 trees read from TREES block; time used = 0.14 sec (CPU time = 0.13 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_9_cloud.tree" completed.
+
+3000 trees saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_cloud
+.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_start
+ing_tree_1.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_9_starting_tree_1.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_start
+ing_tree_1.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_start
+ing_tree_2.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_9_starting_tree_2.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_start
+ing_tree_2.nex"
+
+Processing of file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_start
+ing_tree_3.tree" begins...
+
+1 tree read from TREES block; time used = 0.00 sec (CPU time = 0.00 sec)
+
+Processing of input file "25tip_1000trees_0.125_1.0v0.74start_9_starting_tree_3.tree" completed.
+
+1 tree saved to file
+"~/Projects/TreeScaper/TreeMoves/makeTrees10OtherScripts/multiComD/3Com/25tip_1000trees_0.125_1.0v0.74start_9_start
+ing_tree_3.nex"

@@ -73,92 +73,10 @@ def makeCloud(tips,RF_norm_cloud,name,cloud_size,starting_trees):
 	# Make clouds
 	cluster1 = readTree.NNI_mult_trees(in_tree=t1,num_out_trees=c_size,num_nni_moves=NNI_moves_cloud,out='list')
 	cluster2 = readTree.NNI_mult_trees(in_tree=t2,num_out_trees=c_size,num_nni_moves=NNI_moves_cloud,out='list')
+	tree_list=[cluster1,cluster2]
 	# Make a nexus file with starting trees and cloud trees
-	readTree.list_to_out(cluster1, cluster2,'%s_cloud.tree' % name)
-def makeFolders(current_folder):
-	os.chdir(current_folder)
-	mainDir = os.getcwd()
-	for t in glob.glob('*.nex'):
+	readTree.list_to_out(tree_list,'%s_cloud.tree' % name)
 
-		# Get base name of file
-		treeSet=str(t)
-		treeSetIndex = treeSet.find(".nex")
-		fName = treeSet[:treeSetIndex]
-
-		# Create path 
-		dirPath = os.path.join(mainDir,fName)
-		print(dirPath)
-
-		# Make directory 
-		if not os.path.exists(dirPath):
-			#print("NEW DIR")
-			os.mkdir(dirPath)	
-
-		# Copy nexus to new folder
-		os.system("cp %s %s" % (t,dirPath))
-		os.system("cp %s %s" % ("CLVTreeScaper",dirPath))
-def runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec"):
-
-	treeSet=str(inNexus)
-	treeSetIndex = treeSet.find(".nex")
-	treeSetTrunc = treeSet[:treeSetIndex]
-
-
-
-
-	# The following is specialized for my naming scheme
-	tips = treeSetTrunc.split("_")[0].strip("tip")
-	trees = treeSetTrunc.split("_")[1].strip("trees")
-	cloudRF = treeSetTrunc.split("_")[2]
-	startRF = treeSetTrunc.split("_")[3].strip("start")
-	
-	outLog = treeSetTrunc+"_"+model
-
-	if network == 'Covariance':
-
-		#os.system("%s -trees -f %s -ft Trees -w %s -r %s -o Community -t %s -cm Covariance -lm auto -hf %s -lf %s > %s_CovAuto.out" % (clvPath, treeSet, weighted, rooted, model, hf, lf, treeSet))
-		os.system("./CLVTreeScaper -trees -f %s -ft Trees -w %s -r %s -o Community -t Covariance -cm %s -lm auto -hf %s -lf %s > %s_CovAuto.out" % (treeSet, weighted, rooted, model, hf, lf, outLog))
-
-
-		print("./CLVTreeScaper -trees -f %s -ft Trees -w %s -r %s -o Community -t Covariance -cm %s -lm auto -hf %s -lf %s > %s_CovAuto.out" % (treeSet, weighted, rooted, model, hf, lf, outLog))
-
-	if network == 'Affinity':
-
-		os.system("./CLVTreeScaper -trees -f %s -ft Trees -w %s -r %s -o Community -t Affinity -cm %s -lm auto -dm %s -am %s > %s_AffAuto.out" % (treeSet, weighted, rooted, model, dm, am, outLog))
-		print(("./CLVTreeScaper -trees -f %s -ft Trees -w %s -r %s -o Community -t Affinity -cm %s -lm auto -dm %s -am %s > %s_AffAuto.out" % (treeSet, weighted, rooted, model, dm, am, outLog)))
-def runCLV(mainDir):
-	# iterates through folders and runs cov and Aff for all models
-	for t in glob.glob('*.nex'):
-		os.chdir(maindDir)
-		inNexus = t
-		treeSet=str(inNexus)
-		treeSetIndex = treeSet.find(".nex")
-		treeSetTrunc = treeSet[:treeSetIndex]
-
-		
-		dirPath = os.path.join(mainDir,treeSetTrunc)
-		os.chdir(dirPath)
-		print("Changing to folder: "+str(dirPath))
-
-		network = 'Covariance'
-		model = 'CNM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-		model = 'CPM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-		model = 'ERNM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-		model = 'NNM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-
-		network = 'Affinity'
-		model = 'CNM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-		model = 'CPM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-		model = 'ERNM'
-		runTreescaper(inNexus, network, model, weighted=0, rooted=1, lf=0.05, hf=0.95, dm="URF", am="Rec")
-
-		os.chdir(mainDir)
 
 ############################################################  
 #User input
@@ -169,15 +87,22 @@ def main():
 	cloud_size = 1000
 	number_replicates = 100
 
-	RF_norm_cloud = 0.25
-	RF_norm_start = 0.043
+	RF_norm_cloud = 0.22
+	RF_norm_start = 0.04
 	# Make a bunch of trees
 	for num in range(1,number_replicates+1):
 		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
 		trees = makeStarting(tips,RF_norm_start,name,RF_norm_cloud,cloud_size)
 		makeCloud(tips,RF_norm_cloud,name,cloud_size,trees)
 
-	RF_norm_start = 0.125
+	RF_norm_start = 0.09
+	# Make a bunch of trees
+	for num in range(1,number_replicates+1):
+		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
+		trees = makeStarting(tips,RF_norm_start,name,RF_norm_cloud,cloud_size)
+		makeCloud(tips,RF_norm_cloud,name,cloud_size,trees)
+
+	RF_norm_start = 0.22
 	# Make a bunch of trees
 	for num in range(1,number_replicates+1):
 		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
@@ -191,28 +116,28 @@ def main():
 		trees = makeStarting(tips,RF_norm_start,name,RF_norm_cloud,cloud_size)
 		makeCloud(tips,RF_norm_cloud,name,cloud_size,trees)
 
-	RF_norm_start = 0.5
+	RF_norm_start = 0.48
 	# Make a bunch of trees
 	for num in range(1,number_replicates+1):
 		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
 		trees = makeStarting(tips,RF_norm_start,name,RF_norm_cloud,cloud_size)
 		makeCloud(tips,RF_norm_cloud,name,cloud_size,trees)
 
-	RF_norm_start = 0.65
+	RF_norm_start = 0.61
 	# Make a bunch of trees
 	for num in range(1,number_replicates+1):
 		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
 		trees = makeStarting(tips,RF_norm_start,name,RF_norm_cloud,cloud_size)
 		makeCloud(tips,RF_norm_cloud,name,cloud_size,trees)
 
-	RF_norm_start = 0.75
+	RF_norm_start = 0.74
 	# Make a bunch of trees
 	for num in range(1,number_replicates+1):
 		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
 		trees = makeStarting(tips,RF_norm_start,name,RF_norm_cloud,cloud_size)
 		makeCloud(tips,RF_norm_cloud,name,cloud_size,trees)
 
-	RF_norm_start = 0.9
+	RF_norm_start = 0.87
 	# Make a bunch of trees
 	for num in range(1,number_replicates+1):
 		name =("%stip_%strees_%s_%sstart_%s" % (tips,cloud_size,RF_norm_cloud,RF_norm_start, num))
